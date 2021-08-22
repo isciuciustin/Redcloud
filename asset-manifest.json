@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/isciuciustin/react-deploy.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/isciuciustin/react-deploy.git/static/js/main.8c5379e5.chunk.js",
+    "main.js.map": "/isciuciustin/react-deploy.git/static/js/main.8c5379e5.chunk.js.map",
+    "runtime-main.js": "/isciuciustin/react-deploy.git/static/js/runtime-main.1482c899.js",
+    "runtime-main.js.map": "/isciuciustin/react-deploy.git/static/js/runtime-main.1482c899.js.map",
+    "static/js/2.0776a14c.chunk.js": "/isciuciustin/react-deploy.git/static/js/2.0776a14c.chunk.js",
+    "static/js/2.0776a14c.chunk.js.map": "/isciuciustin/react-deploy.git/static/js/2.0776a14c.chunk.js.map",
+    "static/js/3.dd157172.chunk.js": "/isciuciustin/react-deploy.git/static/js/3.dd157172.chunk.js",
+    "static/js/3.dd157172.chunk.js.map": "/isciuciustin/react-deploy.git/static/js/3.dd157172.chunk.js.map",
+    "index.html": "/isciuciustin/react-deploy.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/isciuciustin/react-deploy.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.0776a14c.chunk.js.LICENSE.txt": "/isciuciustin/react-deploy.git/static/js/2.0776a14c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/isciuciustin/react-deploy.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1482c899.js",
+    "static/js/2.0776a14c.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.8c5379e5.chunk.js"
+  ]
+}
