@@ -24,7 +24,7 @@ var transporter = nodemailer.createTransport({
 
 var storage = multer.diskStorage({
     destination: function (req, file, cb) {
-        cb(null, "../client/public/images")
+        cb(null, "../my-app/public/images")
     },
     filename: function (req, file, cb) {
         cb(null, "IMG" + '-' + Date.now() + path.extname(file.originalname))
@@ -247,7 +247,7 @@ app.post("/remove/:path", (req, res) => {
     let name = req.params.path.toString();
     name = name.substr(1, name.length - 1);
     name = name.substr(0, name.length - 1);
-    let path = "../client/public/images/" + name;
+    let path = "../my-app/public/images/" + name;
     fs.unlinkSync(path)
     console.log(path)
     const sql = "delete from img where namefile = ?"
