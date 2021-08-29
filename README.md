@@ -1,4 +1,4 @@
-# Redcloud
+# How to use
 after clone press 
 cd Redcloud
 cd my-app
